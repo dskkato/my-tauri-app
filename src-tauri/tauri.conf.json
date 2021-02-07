@@ -4,6 +4,11 @@
     "embeddedServer": {
       "active": true
     },
+    "cli": {
+      "args": [{
+        "name": "some_subcommand"
+      }]
+    },
     "bundle": {
       "active": true,
       "targets": "all",
